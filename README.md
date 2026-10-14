@@ -87,10 +87,6 @@ String password = "tu_password";
 
 ```
 
----
-
 ✨ *Desarrollado por [Daniel Sincal*](https://www.google.com/search?q=https://github.com/ferzincal)
 
-```
 
-```
