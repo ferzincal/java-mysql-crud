@@ -32,7 +32,7 @@ Aplicación de consola desarrollada en **Java** que implementa las operaciones f
 
 Ejecuta el siguiente script SQL en tu gestor de base de datos MySQL para crear la base de datos y la tabla correspondiente:
 
-
+```sql
 CREATE DATABASE IF NOT EXISTS tienda;
 USE tienda;
 
@@ -44,6 +44,7 @@ CREATE TABLE productos (
     precio DECIMAL(10, 2) NOT NULL,
     cantidad INT NOT NULL
 );
+```
 
 
 ## 🚀 Instalación y Configuración Local
